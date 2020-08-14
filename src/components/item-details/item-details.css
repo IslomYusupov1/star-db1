@@ -1,0 +1,44 @@
+#per{
+    display: flex;
+    flex-direction: row;
+    margin-top: 4px;
+    width: 80%;
+    height: 60%;
+    margin-left: 10%;
+
+}
+.person-details {
+    flex-direction: row;
+    padding: 1em;
+    width: 500px;
+    height: 250px;
+
+}
+
+.person-details .person-image{
+    width: 35%;
+    height: 80%;
+    border-radius: 10px;
+}
+.person-details .list-group-item{
+    padding: .5em;
+}
+
+/*.list-group-item-flush {*/
+/*    position: relative;*/
+/*    right: 45px;*/
+/*    bottom: 4px;*/
+/*    margin-left: 10px;*/
+/*}*/
+.card-body h3{
+    font-size: 30px;
+}
+/*.item-details .list-group-item .term{*/
+/*    padding: .25em;*/
+/*}*/
+
+.btn1{
+    position: absolute;
+    top: 200px;
+    right: 90px;
+}

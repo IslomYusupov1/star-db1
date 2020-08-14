@@ -1,0 +1,23 @@
+.header {
+    padding-left: 10px;
+    padding-bottom: 5px;
+    margin-left: 25%;
+}
+.t{
+    font-size: 30px;
+}
+.header h3{
+    text-decoration: none;
+    list-style: none;
+}
+.header ul li {
+    list-style: none;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-left: 15px;
+}
+
+.header ul li:hover{
+    background-color: #444;
+    text-decoration: none;
+}

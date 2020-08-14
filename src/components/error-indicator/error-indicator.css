@@ -1,0 +1,27 @@
+.error-indicator{
+    margin-left: 40%;
+    font-family: Ubuntu;
+}
+.error-indicator span{
+    color: red;
+    padding-top: 5px;
+    font-size: 20px;
+}
+.icon{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    background-color: black;
+}
+.boom{
+   margin-left: 100px;
+    font-size: 30px!important;
+}
+
+@media screen and (max-width: 768px)  {
+    .error-indicator {
+        margin-left: 23%;
+    }
+
+
+}

@@ -1,0 +1,11 @@
+.it{
+    cursor: pointer;
+    margin-top: 4px;
+    width: 60%;
+    margin-left: 52%;
+}
+
+#l:hover{
+    background-color: #444444;
+    cursor: pointer;
+}
